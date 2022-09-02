@@ -202,7 +202,7 @@ numero_m determ_inversa(struct matriz* matriz, struct matriz* destino_inv) {
     return determinante;
 }
 
-
+/*
 const numero_m matriz_test[] = {
     1, 2, 1, 2,
     2, 4, 2, 5,
@@ -226,4 +226,4 @@ int main()
     }
     printf("\nDeterminante: %f", determinante);
     return 0;
-}
+}*/
